@@ -2,3 +2,4 @@ In this Project I have made a Django app in which we can see the job listings wh
 username and password which is sapan ans 123 respectively.There on djano administartion they can serach for a job,delete it and can edit it.There they can also see the average of
 the salary of their city using the numpy libraray.
 <img width="960" alt="Screenshot 2024-01-08 202242" src="https://github.com/Sapansharma522/AST_ASSIGNMENT/assets/76728466/2f80a38d-3ed0-4248-8098-b8836a32d95a">
+<img width="960" alt="Screenshot 2024-01-09 160629" src="https://github.com/Sapansharma522/AST_ASSIGNMENT/assets/76728466/fef46fe0-e363-4480-8134-48a3a869bf6e">
