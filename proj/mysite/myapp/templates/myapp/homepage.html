@@ -1,0 +1,49 @@
+<!-- myapp/templates/myapp/homepage.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Listings</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to the Job Listings App!</h1>
+
+    <h2>Recent Job Listings:</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Company</th>
+                <th>Location</th>
+                <th>Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for job in job_listings %}
+                <tr>
+                    <td>{{ job.title }}</td>
+                    <td>{{ job.company }}</td>
+                    <td>{{ job.jobLocationCity }}</td>
+                    <td>{% if job.extractedSalary %}${{ job.extractedSalary }}{% else %}Salary not specified{% endif %}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
