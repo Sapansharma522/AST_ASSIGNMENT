@@ -1,0 +1,660 @@
+[{
+  "company": "Wipro Limited",
+  "title": "Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "Appstacklabs",
+  "extractedSalary": {
+    "max": 35000,
+    "min": 30000,
+    "type": "monthly"
+  },
+  "title": "Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "Vyunex",
+  "extractedSalary": {
+    "max": 18000,
+    "min": 10000,
+    "type": "monthly"
+  },
+  "title": "Junior Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "Aventure Innovation pvt. ltd",
+  "title": "Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "Retentia technology private limited",
+  "title": "Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "Madhees",
+  "title": "Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "Oracle",
+  "title": "Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "Zazz",
+  "extractedSalary": {
+    "max": 1600000,
+    "min": 1400000,
+    "type": "yearly"
+  },
+  "title": "Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "Intercontinental Exchange",
+  "title": "Software Developer, Python",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "ALIQAN Technologies",
+  "extractedSalary": {
+    "max": 1537122.1,
+    "min": 1041137.5,
+    "type": "yearly"
+  },
+  "title": "Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "UST",
+  "title": "Python Developer + Ansible + SQL, NOSQL",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "Code Connex",
+  "title": "Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "iXceed Solutions",
+  "extractedSalary": {
+    "max": 3000000,
+    "min": 2000000,
+    "type": "yearly"
+  },
+  "title": "Sr. Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "SPARKLE IT SOLUTIONS",
+  "extractedSalary": {
+    "max": 600000,
+    "min": 400000,
+    "type": "yearly"
+  },
+  "title": "Junior Python Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "company": "Accenture",
+  "title": "Python (Programming Language) Application Developer",
+  "jobLocationCity": "Hyderabad"
+},
+{
+  "displayTitle": "Lead Infrastructure Services Delivery Engineer (Mainframe developer/Automation)",
+  "company": "DTCC",
+  "jobLocationCity": ""
+},
+{
+  "displayTitle": "Python Developer Intern",
+  "extractedSalary": {
+    "max": 18000,
+    "min": 15000,
+    "type": "monthly"
+  },
+  "company": "InternIQ",
+  "jobLocationCity": "Remote"
+},
+{
+  "displayTitle": "Python Developer",
+  "company": "Wipro Limited",
+  "jobLocationCity": ""
+},
+{
+  "displayTitle": "Python Developer Intern",
+  "extractedSalary": {
+    "max": 10000,
+    "min": 10000,
+    "type": "monthly"
+  },
+  "company": "Zedblock Private Limited",
+  "jobLocationCity": ""
+},
+{
+  "displayTitle": "Python Developer",
+  "extractedSalary": {
+    "max": 4800000,
+    "min": 4200000,
+    "type": "yearly"
+  },
+  "company": "Plaxonic",
+  "jobLocationCity": "Remote"
+},
+{
+  "displayTitle": "Python Developer",
+  "extractedSalary": {
+    "max": 3500000,
+    "min": 3000000,
+    "type": "yearly"
+  },
+  "company": "Majesty Techsol",
+  "jobLocationCity": "Remote"
+},
+{
+  "displayTitle": "Python Developer - C10",
+  "company": "Citi",
+  "jobLocationCity": "Gurgaon"
+},
+{
+  "displayTitle": "Python Developer",
+  "extractedSalary": {
+    "max": 900000,
+    "min": 400000,
+    "type": "yearly"
+  },
+  "company": "Sattrix Information Security (P) Ltd",
+  "jobLocationCity": "Remote"
+},
+{
+  "displayTitle": "Developer - FullStack (Python)",
+  "company": "Airbus",
+  "jobLocationCity": ""
+},
+{
+  "displayTitle": "Python developer",
+  "extractedSalary": {
+    "max": 500000,
+    "min": 400000,
+    "type": "yearly"
+  },
+  "company": "MALtech Solutions Pvt Ltd",
+  "jobLocationCity": ""
+},
+{
+  "displayTitle": "Python Developer (Remote)",
+  "company": "Assistnow Inc",
+  "jobLocationCity": ""
+},
+{
+  "displayTitle": "Python Developer Intern",
+  "extractedSalary": {
+    "max": 200000,
+    "min": 100000,
+    "type": "yearly"
+  },
+  "company": "Rigour Technology",
+  "jobLocationCity": ""
+},
+{
+  "displayTitle": "Backend Developer",
+  "extractedSalary": {
+    "max": 1000000,
+    "min": 700000,
+    "type": "yearly"
+  },
+  "company": "Vecmocon Technologies",
+  "jobLocationCity": "New Delhi"
+},
+{
+  "displayTitle": "Senior Software Engineer - NFT",
+  "company": "Telstra",
+  "jobLocationCity": ""
+},
+{
+  "displayTitle": "Python Developer",
+  "extractedSalary": {
+    "max": 1500000,
+    "min": 600000,
+    "type": "yearly"
+  },
+  "company": "Wits Innovation Lab",
+  "jobLocationCity": ""
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "company": "Boston Consulting Group",
+  "title": "Software Engineer - X Delivery"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "company": "Airbus",
+  "title": "Developer - FullStack (Python)"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "extractedSalary": {
+    "max": 500000,
+    "min": 400000,
+    "type": "yearly"
+  },
+  "company": "MALtech Solutions Pvt Ltd",
+  "title": "Python developer"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "extractedSalary": {
+    "max": 1500000,
+    "min": 600000,
+    "type": "yearly"
+  },
+  "company": "Wits Innovation Lab",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "company": "Horizon Corp",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "company": "Kognosdata",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "company": "Infosys",
+  "title": "Python Senior Developer"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "extractedSalary": {
+    "max": 10000,
+    "min": 10000,
+    "type": "monthly"
+  },
+  "company": "xIoTz Private Limited",
+  "title": "Python Developer Intern"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "company": "Marktine Technology Solutions",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "extractedSalary": {
+    "max": 1200000,
+    "min": 0,
+    "type": "yearly"
+  },
+  "company": "ZeroNoticePeriod",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "company": "Pattern Effects Labs",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "extractedSalary": {
+    "max": 450000,
+    "min": 350000,
+    "type": "yearly"
+  },
+  "company": "IBS network communication",
+  "title": "Software Developer"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "company": "iTDAY India",
+  "title": "Python Django Developer"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "company": "BOEING",
+  "title": "Experienced Software Engineer"
+},
+{
+  "jobLocationCity": "Bengaluru",
+  "company": "pentoz technology",
+  "title": "python developer"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "company": "Citi",
+  "title": "Python Developer - C10"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "company": "Webority Technologies",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "company": "lepton software",
+  "title": "Jr. Developer/Developer (Back-end)/ Python"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "company": "Ahom Technologies",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "company": "Square Yards Consulting",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "extractedSalary": {
+    "max": 750000,
+    "min": 300000,
+    "type": "yearly"
+  },
+  "company": "SS Supply Chain Solutions",
+  "title": "Python Developer (Gurgaon)"
+},
+{
+  "jobLocationCity": "",
+  "company": "BlackRock",
+  "title": "Python Developer , Associate"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "company": "Star Systems",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "company": "Novus Insights",
+  "title": "Junior Python Developer"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "extractedSalary": {
+    "max": 600000,
+    "min": 400000,
+    "type": "yearly"
+  },
+  "company": "Fuevation Technology Solutions Pvt Ltd.",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "extractedSalary": {
+    "max": 3000000,
+    "min": 2000000,
+    "type": "yearly"
+  },
+  "company": "iXceed Solutions",
+  "title": "Sr. Python Developer"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "extractedSalary": {
+    "max": 3000000,
+    "min": 2000000,
+    "type": "yearly"
+  },
+  "company": "iXceed Solutions",
+  "title": "Python Developer & Data"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "extractedSalary": {
+    "max": 40000,
+    "min": 40000,
+    "type": "monthly"
+  },
+  "company": "Preplaced",
+  "title": "Software Developer"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "extractedSalary": {
+    "max": 1800000,
+    "min": 700000,
+    "type": "yearly"
+  },
+  "company": "Kodehash Technologies Pvt Ltd",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Gurgaon",
+  "company": "Zenga TV",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "extractedSalary": {
+    "max": 25000,
+    "min": 15000,
+    "type": "monthly"
+  },
+  "company": "Innoage Technologies Pvt. Ltd.",
+  "title": "Junior Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "extractedSalary": {
+    "max": 1049221.1,
+    "min": 493653.72,
+    "type": "yearly"
+  },
+  "company": "CyntraLabs TechLabs",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "company": "TeamPlus Staffing Solution Pvt Ltd",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "extractedSalary": {
+    "max": 700000,
+    "min": 350000,
+    "type": "yearly"
+  },
+  "company": "Meon technologies pvt. ltd.",
+  "title": "Python/Django Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "company": "Appsmediaz Technologies",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "company": "Technoarch Softwares",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "company": "ENTERSLICE",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "extractedSalary": {
+    "max": 32000,
+    "min": 25000,
+    "type": "monthly"
+  },
+  "company": "Intrics Solutions Pvt Ltd",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "company": "Mymind Infotech",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "company": "Accenture",
+  "title": "Python (Programming Language) Application Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "company": "Pure Software",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "extractedSalary": {
+    "max": 2000000,
+    "min": 1500000,
+    "type": "yearly"
+  },
+  "company": "Future Technosoft",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "company": "Onsumaye",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "company": "TechAhead",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Noida",
+  "extractedSalary": {
+    "max": 60000,
+    "min": 30000,
+    "type": "monthly"
+  },
+  "company": "Book2save Pvt. Ltd.",
+  "title": "Python Developer"
+},
+{
+  "jobLocationCity": "Mohali",
+  "extractedSalary": {
+    "max": 50000,
+    "min": 25000,
+    "type": "monthly"
+  },
+  "company": "Intelligent Outsourcing",
+  "displayTitle": "PHP Developer/Laravel Developer"
+},
+{
+  "jobLocationCity": "Remote",
+  "extractedSalary": {
+    "max": 18000,
+    "min": 15000,
+    "type": "monthly"
+  },
+  "company": "InternIQ",
+  "displayTitle": "Python Developer Intern"
+},
+{
+  "jobLocationCity": "",
+  "company": "Cencora",
+  "displayTitle": "Analyst I - IT Solutions"
+},
+{
+  "jobLocationCity": "",
+  "company": "Wipro Limited",
+  "displayTitle": "Python Developer"
+},
+{
+  "jobLocationCity": "",
+  "extractedSalary": {
+    "max": 5000,
+    "min": 5000,
+    "type": "monthly"
+  },
+  "company": "Potenz Technology",
+  "displayTitle": "Python Developer"
+},
+{
+  "jobLocationCity": "Remote",
+  "extractedSalary": {
+    "max": 4800000,
+    "min": 4200000,
+    "type": "yearly"
+  },
+  "company": "Plaxonic",
+  "displayTitle": "Python Developer"
+},
+{
+  "jobLocationCity": "Remote",
+  "extractedSalary": {
+    "max": 3500000,
+    "min": 3000000,
+    "type": "yearly"
+  },
+  "company": "Majesty Techsol",
+  "displayTitle": "Python Developer"
+},
+{
+  "jobLocationCity": "",
+  "extractedSalary": {
+    "max": 200000,
+    "min": 100000,
+    "type": "yearly"
+  },
+  "company": "Rigour Technology",
+  "displayTitle": "Python Developer Intern"
+},
+{
+  "jobLocationCity": "Remote",
+  "extractedSalary": {
+    "max": 900000,
+    "min": 400000,
+    "type": "yearly"
+  },
+  "company": "Sattrix Information Security (P) Ltd",
+  "displayTitle": "Python Developer"
+},
+{
+  "jobLocationCity": "",
+  "company": "Airbus",
+  "displayTitle": "Developer - FullStack (Python)"
+},
+{
+  "jobLocationCity": "",
+  "extractedSalary": {
+    "max": 500000,
+    "min": 400000,
+    "type": "yearly"
+  },
+  "company": "MALtech Solutions Pvt Ltd",
+  "displayTitle": "Python developer"
+},
+{
+  "jobLocationCity": "",
+  "company": "Assistnow Inc",
+  "displayTitle": "Python Developer (Remote)"
+},
+{
+  "jobLocationCity": "",
+  "extractedSalary": {
+    "max": 1500000,
+    "min": 600000,
+    "type": "yearly"
+  },
+  "company": "Wits Innovation Lab",
+  "displayTitle": "Python Developer"
+},
+{
+  "jobLocationCity": "",
+  "company": "RSA",
+  "displayTitle": "RSA- Software Principal Engineer- Full Stack Java Developer"
+},
+{
+  "jobLocationCity": "",
+  "extractedSalary": {
+    "max": 200000,
+    "min": 141500,
+    "type": "monthly"
+  },
+  "company": "Uplers",
+  "displayTitle": "Python Developer (Ahmedabad)"
+}]
